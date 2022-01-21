@@ -2,5 +2,21 @@
   "name": "Comic Mono Code",
   "description": "Beautify code snippets with Comic Mono font",
   "version": "1.0",
+  "icons": {
+    "16": "icon/16.png",
+    "48": "icon/48.png",
+    "128": "icon/128.png"
+  },
+  "content_scripts": [
+    {
+      "matches": [
+        "*://*/*"
+      ],
+      "css": [
+        "comic-mono.css"
+      ],
+      "run_at": "document_start"
+    }
+  ],
   "manifest_version": 3
 }

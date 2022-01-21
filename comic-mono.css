@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'Comic Mono';
+    font-style: normal;
+    font-weight: 400;
+    src: url('./ComicMono.ttf');
+}
+
+code, pre {
+    font-family: 'Comic Mono', monospace;
+}
