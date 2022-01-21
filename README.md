@@ -1,4 +1,4 @@
-### Comic Mono Code
+# Comic Mono Code
 
 Beautify your browser experience with this extension. All code blocks on websites will use
 the [comic mono](https://dtinth.github.io/comic-mono-font/) font.
