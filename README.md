@@ -9,4 +9,4 @@ Download the repo and add it as unpacked extension (only available in developer 
 
 ## Chrome Extensions Store
 Download link coming soon. Still waiting for Google to accept the extension.
-![](https://giphy.com/embed/QPQ3xlJhqR1BXl89RG)
+![](misc/waiting.gif)
